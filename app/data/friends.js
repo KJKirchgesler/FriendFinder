@@ -48,6 +48,23 @@ var friends = [
 		"2",
 		"4"
 	]
+},
+
+{
+	"name": "Queen Victoria",
+	"photo": "https://en.wikipedia.org/wiki/Queen_Victoria#/media/File:Queen_Victoria_by_Bassano.jpg",
+	"scores": [
+		"3",
+		"5",
+		"5",
+		"4",
+		"3",
+		"1",
+		"4",
+		"3",
+		"1",
+		"5"
+	]
 }
 ];
 
