@@ -1,7 +1,7 @@
 var friends = [
 {
 	"name": "Audrey Hepburn",
-	"photo": "https://en.wikipedia.org/wiki/Audrey_Hepburn#/media/File:Audrey_Hepburn_1956.jpg",
+	"photo": "https://cdn.europosters.eu/image/750/posters/audrey-hepburn-breakfast-at-tiffany-s-i11224.jpg",
 	"scores": [
 		"5",
 		"1",
@@ -18,7 +18,7 @@ var friends = [
 
 {
 	"name": "Levi Strauss",
-	"photo": "https://en.wikipedia.org/wiki/Levi_Strauss#/media/File:Levi_Strauss_1.jpg",
+	"photo": "http://www.nndb.com/people/001/000162512/levi-strauss-3-sized.jpg",
 	"scores": [
 		"4",
 		"1",
@@ -35,7 +35,7 @@ var friends = [
 
 {
 	"name": "Anthony Comstock",
-	"photo": "https://en.wikipedia.org/wiki/Anthony_Comstock#/media/File:Anthony_Comstock.jpg",
+	"photo": "https://laurawelsh93.files.wordpress.com/2014/04/fund0545.gif",
 	"scores": [
 		"1",
 		"5",
@@ -52,7 +52,7 @@ var friends = [
 
 {
 	"name": "Queen Victoria",
-	"photo": "https://en.wikipedia.org/wiki/Queen_Victoria#/media/File:Queen_Victoria_by_Bassano.jpg",
+	"photo": "https://pbs.twimg.com/profile_images/2549849473/51nqqjowye9jneplzpgb_400x400.jpeg",
 	"scores": [
 		"3",
 		"5",
